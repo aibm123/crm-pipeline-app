@@ -15,8 +15,6 @@
       "dest": "/index.html"
     }
   ],
-  "env": {
-    "VITE_API_BASE_URL": "@vite_api_base_url",
-    "VITE_AI_API_URL": "@vite_ai_api_url"
-  }
+  "functions": {},
+  "env": {}
 }
